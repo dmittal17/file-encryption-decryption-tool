@@ -1,0 +1,6 @@
+*.o
+*.out
+a.out
+encrypt_decrypt
+encrypted_*
+decrypted_*
